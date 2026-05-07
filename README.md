@@ -1,0 +1,2 @@
+# SnapSecurity
+Security logging tool
